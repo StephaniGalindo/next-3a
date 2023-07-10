@@ -122,3 +122,11 @@ myPromise2
 
 //git init para la terminal.
 //git status muestra todos los archivos. 
+//git add .
+//git status
+//git restore --staged package.json
+//git commit -m "menssage" (git commit -m "initial commit")
+//-git remote add origin https://StephaniGalindo:
+//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@github.com
+///-StephaniGalindo/next-3a.git
+//git push origin main o git push origin master
