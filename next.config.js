@@ -13,3 +13,4 @@ module.exports = {
         ZAPATITOS_APP_ID: "1:242093982308:web:ebb540ac29e8ecdea1d571"
     },
 }
+
